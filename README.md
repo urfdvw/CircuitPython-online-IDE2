@@ -1,1 +1,1 @@
-[CircuitPython Online IDE](https://urfdvw.github.io/CircuitPython-online-IDE2/)
+[CircuitPython Online IDE](https://urfdvw.github.io/circuitpython-online-ide-2/)
